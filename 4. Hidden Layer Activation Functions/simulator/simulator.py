@@ -26,10 +26,7 @@ class Layer_Dense:
         if not self.hidden:
             self.output = output
             return
-        if isinstance(output, (int, float)):
-            self.output = max(output,0)
-            return
-        self.output = list(map(lambda x: max(x,0),output))
+        self.output = np.maximum(0,output)
 
 
 inputs = []
