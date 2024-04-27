@@ -1,6 +1,6 @@
 # Back Propogation
 Back propogation is used to update weights and bias
-
+<a href="https://www.youtube.com/watch?v=tIeHLnjs5U8">youtube</a>
 ### Consider the case of where we have multiple layers with single neuron
 ![<img src>](<assets/derivation/0. neuron.png>)
 
