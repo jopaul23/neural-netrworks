@@ -37,3 +37,9 @@ for activation
 for activation function
 ![alt text](<assets/derivation/5. multiple-neuron.png>)
 for weight
+
+
+## final algorithm
+![alt text](assets/algorithm.png)
+## solved problem
+![alt text](assets/solved-problem.png)
